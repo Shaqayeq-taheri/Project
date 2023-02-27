@@ -1,4 +1,4 @@
-
+@import url('./bootstrap/dist/js/bootstrap.bundle.js');
 body{
     margin: 0;
     background-color: silver;
