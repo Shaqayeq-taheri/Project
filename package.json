@@ -1,15 +1,23 @@
 {
-  "name": "html-css-project",
+  "name": "my portfolio",
   "version": "1.0.0",
-  "description": "final project of UIB including html css ",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
-  "keywords": [
-    "html&&css"
-  ],
-  "author": "Shaqayeq",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaqayeq-taheri/Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaqayeq-taheri/Project/issues"
+  },
+  "homepage": "https://github.com/Shaqayeq-taheri/Project#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
 }
